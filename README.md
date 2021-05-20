@@ -1,6 +1,5 @@
 Hi, I'm NoCheat (@nocheatoriginal)
 
--Suluzel Studio Code
+@Suluzel Studios
 
-Programing languages: 
-C# (Visual C#), Java, Python
+Programing languages: C# (Visual C#), Java, Python
