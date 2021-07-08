@@ -2,8 +2,9 @@ Hi, I'm __NoCheat__ (_@nocheatoriginal_)
 ---
 ![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!")
 ---
-Suluzel Studios
+-Suluzel Studios (Programing Team)
 
+---
 Programing languages: 
   1.  C#
   2.  Java 
@@ -22,3 +23,5 @@ def to_markdown(textfile):
 
 to_markdown("README")
 ```
+
+---
