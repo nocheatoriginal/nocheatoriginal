@@ -15,10 +15,10 @@ import markdown
 
 def to_markdown(textfile):
   	with open(textfile + '.md', 'r') as file:
-      text = file.read()
-      html = markdown.markdown(text)
+        text = file.read()
+        html = markdown.markdown(text)
     with open(textfile + '.html', 'w') as file:
-      file.write(html)
+        file.write(html)
 
 to_markdown("README")
 ```
