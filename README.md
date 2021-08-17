@@ -5,7 +5,7 @@ Hi, I'm __NoCheat__ (_@nocheatoriginal_)
 
 ---
 
-> none (Developer Team)
+> __Developer Team:__  none
 
 ---
 - Programing languages: 
@@ -30,4 +30,4 @@ to_markdown("README")
 > https://github.com/nocheatoriginal
 ---
 
-[comment]: <Old pfp>  (![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!")
+[comment]: <Old pfp>  (![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!"))
