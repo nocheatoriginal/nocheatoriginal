@@ -30,4 +30,4 @@ to_markdown("README")
 > https://github.com/nocheatoriginal
 ---
 
-[comment]: < ![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!") >()
+[comment]: < ![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!") >
