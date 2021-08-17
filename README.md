@@ -5,7 +5,7 @@ Hi, I'm __NoCheat__ (_@nocheatoriginal_)
 
 ---
 
-> Suluzel Studios (Developer Team)
+> none (Developer Team)
 
 ---
 - Programing languages: 
@@ -13,6 +13,7 @@ Hi, I'm __NoCheat__ (_@nocheatoriginal_)
 2. Java 
 3. Python
 
+# Python:
 
 ```python
 import markdown
@@ -29,12 +30,4 @@ to_markdown("README")
 > https://github.com/nocheatoriginal
 ---
 
-
-![](https://abload.de/img/loading4xjvv.gif "loading")
-
-
-
-
-> Old Image...
-
-![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!")
+[comment]: <Old pfp>  (![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!")
