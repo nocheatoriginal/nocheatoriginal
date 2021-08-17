@@ -1,7 +1,7 @@
 Hi, I'm __NoCheat__ (_@nocheatoriginal_)
 
 ---
-![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!")
+![](https://abload.de/img/rikka_pfpt2kgf.png "Das wahre Auge des bösen Königs!\n Rikka Takanashi")
 
 ---
 
@@ -28,3 +28,7 @@ to_markdown("README")
 ```
 > https://github.com/nocheatoriginal
 ---
+
+
+
+![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!")
