@@ -1,7 +1,7 @@
 ### Hi, I'm __NoCheat__ (_@nocheatoriginal_)
 
 ---
-![](https://abload.de/img/rikka_pfp7ujv3.png "Rikka Takanashi! Das wahre Auge des bösen Königs!")
+![](https://abload.de/img/rikka_fullbody_pfp82ji6.png "Rikka Takanashi! Das wahre Auge des bösen Königs!")
 
 ---
 
