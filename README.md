@@ -1,4 +1,4 @@
-# Hi, I'm __NoCheat__ (_@nocheatoriginal_)
+### Hi, I'm __NoCheat__ (_@nocheatoriginal_)
 
 ---
 ![](https://abload.de/img/rikka_pfp7ujv3.png "Rikka Takanashi! Das wahre Auge des bösen Königs!")
@@ -13,7 +13,7 @@
 2. Java 
 3. Python
 
-# Python:
+### Python:
 
 ```python
 import markdown
@@ -30,4 +30,4 @@ to_markdown("README")
 > https://github.com/nocheatoriginal
 ---
 
-[comment]: <Old pfp>  (![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!"))
+[comment]: <Old_pfp> (![](https://abload.de/img/__profilbild__s2j47.jpeg "Hi!"))
