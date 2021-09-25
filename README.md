@@ -132,8 +132,6 @@ def beispiele():
     print("Copyright 2021 - Nils Pourié\n")
 
 
-
-# TODO Auswahlmenu
 def menu():
     print("Menu\n----")
     print("[1] fakultät(zahl)")
@@ -200,24 +198,6 @@ if __name__ == '__main__':
     main()
 
 ```
-
-
-[comment] <
-```python
-import markdown
-
-def to_markdown(textfile):
-    with open(textfile + '.md', 'r') as file:
-        text = file.read()
-        html = markdown.markdown(text)
-    with open(textfile + '.html', 'w') as file:
-        file.write(html)
-
-to_markdown("README")
-``` >
-
-
-
 > https://github.com/nocheatoriginal
 ---
 
