@@ -6,8 +6,6 @@
 
 ---
 
-> __Developer Team:__  none
-
 ---
 - Programing languages: 
 1. C#
