@@ -10,7 +10,6 @@
 1. C#
 2. Java 
 3. Python (https://github.com/nocheatoriginal/Python_stochastik)
-4. 
 ---
 
 [comment]: < ![](https://abload.de/img/rikka_fullbody_pfp82ji6.png "Rikka Takanashi! Das wahre Auge des bösen Königs!") >
