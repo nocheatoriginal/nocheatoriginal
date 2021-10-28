@@ -9,7 +9,8 @@
 - Programing languages: 
 1. C#
 2. Java 
-3. Python (https://github.com/nocheatoriginal/Python_stochastik)
+3. Python 
+4. Examples: https://github.com/nocheatoriginal/Python_stochastik
 ---
 
 [comment]: < ![](https://abload.de/img/rikka_fullbody_pfp82ji6.png "Rikka Takanashi! Das wahre Auge des bösen Königs!") >
