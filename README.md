@@ -3,8 +3,6 @@
 ---
 
 > ![](https://abload.de/img/macpfpdyko4.png "Hoi")
-
----
 > Programing languages: 
 >> |     _C#_ |
 >> |---------:|
