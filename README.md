@@ -5,10 +5,10 @@
 > ![](https://abload.de/img/macpfpdyko4.png "Hoi")
 > 
 > Programing languages: 
->> |             _C#_ |
+>> | 1.          _C#_ |
 >> |-----------------:|
->> |           _Java_ |
->> |         _Python_ |
+>> | 2.        _Java_ |
+>> | 3.      _Python_ |
 ---
 
 [comment]: < ![](https://abload.de/img/rikka_fullbody_pfp82ji6.png "Rikka Takanashi! Das wahre Auge des bösen Königs!") >
