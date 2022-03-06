@@ -1,7 +1,5 @@
 # Hi, I'm __NoCheat__ (_@nocheatoriginal_)
 
----
-
 > ![](https://abload.de/img/macpfpdyko4.png "Hoi")
 > 
 > ### Programing languages: 
@@ -9,4 +7,3 @@
 >> |---------:|
 >> |   _Java_ |
 >> | _Python_ |
----
