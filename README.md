@@ -5,12 +5,10 @@
 ![](https://abload.de/img/macpfpdyko4.png "Hoi")
 
 ---
-
 - Programing languages: 
-1. C#
-2. Java 
-3. Python 
-4. Examples: https://github.com/nocheatoriginal/Python_stochastik
+| C# |
+| Java |
+| Python |
 ---
 
 [comment]: < ![](https://abload.de/img/rikka_fullbody_pfp82ji6.png "Rikka Takanashi! Das wahre Auge des bösen Königs!") >
