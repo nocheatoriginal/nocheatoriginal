@@ -7,10 +7,10 @@
 ---
 - Programing languages: 
 
-|C#     |
-|:-----:|
-|Java   |
-|Python |
+|  C#                         |
+|:---------------------------:|
+|             Java            |
+|            Python           |
 ---
 
 [comment]: < ![](https://abload.de/img/rikka_fullbody_pfp82ji6.png "Rikka Takanashi! Das wahre Auge des bösen Königs!") >
