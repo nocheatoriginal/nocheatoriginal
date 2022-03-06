@@ -7,7 +7,7 @@
 ---
 - Programing languages: 
 
-|  C#                         |
+|        C#                   |
 |:---------------------------:|
 |             Java            |
 |            Python           |
