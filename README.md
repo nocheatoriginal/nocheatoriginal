@@ -8,7 +8,7 @@
 
 <p>  
 <!-- 🍁 -->  
-<img height="480em" src="https://abload.de/img/nocheat_pfpuhjar.jpg" title="Hoi"/>  
+<img height="450em" src="https://abload.de/img/nocheat_pfpuhjar.jpg" title="Hoi"/>  
 </p>
 
 [comment]: # (Image: https://booth.pm/ja/items/2559783)
