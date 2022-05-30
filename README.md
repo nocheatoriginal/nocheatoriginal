@@ -8,10 +8,8 @@
 
 <p>  
 <!-- 🍁 -->  
-<img height="512em" src="https://abload.de/img/nocheat_pfpuhjar.jpg"/>  
+<img height="400em" src="https://abload.de/img/nocheat_pfpuhjar.jpg" title="Hoi"/>  
 </p>
-
-![](https://abload.de/img/nocheat_pfpuhjar.jpg "Hoi")
 
 [comment]: # (Image: https://booth.pm/ja/items/2559783)
 
