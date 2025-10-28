@@ -8,7 +8,7 @@
 <a href="https://nocheatoriginal.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-nocheatoriginal-blue?style=for-the-badge" alt="Portfolio" width="250em"></a>
 
 
-<a href="https://nocheatoriginal.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=0080FF&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Here are my Projects;minesweeper;connectfour;2048;Exproware;senarai" alt="Here are my Projects" /></a>
+<a href="https://nocheatoriginal.github.io/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=0080FF&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Here are my Projects" alt="Here are my Projects" /></a>
 ---
 
 - [minesweeper](https://github.com/nocheatoriginal/minesweeper)
