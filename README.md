@@ -9,3 +9,4 @@
 - [connectfour](https://github.com/nocheatoriginal/connectfour)
 - [2048](https://github.com/nocheatoriginal/2048)
 - [Exproware](https://github.com/nocheatoriginal/exproware)
+- [senarai](https://github.com/nocheatoriginal/senarai)
